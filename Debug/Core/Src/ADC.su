@@ -1,0 +1,2 @@
+../Core/Src/ADC.c:13:6:ADCStart	8	static
+../Core/Src/ADC.c:23:6:ADCStop	8	static
